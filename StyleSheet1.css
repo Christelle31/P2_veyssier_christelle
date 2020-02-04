@@ -1,11 +1,11 @@
 ﻿/*********************RESPONSIVE MOBILES ET TABLETTES**************/
 
 @media (min-width: 480px) and (max-width:780px) {
-    [contenu des instructions]
+    []
 }
 
 @media (min-width: 781px) and (max-width:979px) {
-    [contenu des instructions]
+    []
 }
 
 
@@ -167,7 +167,7 @@ main p {
 
 .formations {
     flex: 3;
-    margin-right: : 20px;
+    margin-right: 20px;
     /*margin-left: 20px;*/
     position: relative;
 }
