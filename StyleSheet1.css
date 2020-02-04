@@ -11,6 +11,11 @@
 
 /****** balises generales ******/
 
+photo col-md-4 {
+    align-content: center;
+    background-color: black;
+}
+
 body {
     padding: 0;
     margin: 0;
@@ -96,12 +101,12 @@ aside {
 
 main {
     width: 70%;
-    background-color: #fff;
+    background-color: #ffd800;
     margin: 0px 25px;
 }
 
     main h1 {
-        background-color: #fff;
+        background-color: black;
         color: #7451eb;
         text-align: center;
         padding: 5px;
@@ -169,7 +174,7 @@ main p {
 
 /*titres partie principales*/
 
-main #formation {
+main #formations {
     margin: 60px 0px 0px 0px;
     padding: 0px 0px 0px 30px;
 }
@@ -179,21 +184,13 @@ main #experiencesprofessionnelles {
     padding: 0px 0px 0px 30px;
 }
 
-main #divers {
-    margin: 60px 0px 0px 0px;
-}
 
-#diplômes {
+main#diplômes {
     width: 50%;
     display: block;
     line-height: 1.5;
 }
 
-#competences {
-    width: 50%;
-    position: relative;
-    display: block;
-}
 
 /*titre avec icone et texte*/
 
