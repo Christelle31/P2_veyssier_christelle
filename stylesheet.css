@@ -101,6 +101,7 @@ aside {
 .apropos {
     flex-grow: 1;
     line-height: 1.6em;
+    text-align: justify;
 }
 
 /****** Mise en page partie principale ******/
