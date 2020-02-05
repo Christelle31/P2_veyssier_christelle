@@ -1,12 +1,19 @@
 ﻿/*********************RESPONSIVE MOBILES ET TABLETTES**************/
 
 @media (min-width: 480px) and (max-width:780px) {
-    []
+.bloc {
+     display: block;
+     clear: both;
+    }
 }
 
 @media (min-width: 781px) and (max-width:979px) {
-    []
+.bloc {
+    display: block;
+    clear: both;
+    }
 }
+
 
 /****** balises generales ******/
 
