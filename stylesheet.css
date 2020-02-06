@@ -88,6 +88,15 @@ h4 {
    padding-left: 35px;
 }
 
+.fa-stack {
+    display: inline-block;
+    height: 4em;
+    line-height: 4em;
+    position: relative;
+    vertical-align: central;
+    width: 5em;
+}
+
 
 
 
