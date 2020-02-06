@@ -20,25 +20,31 @@
     margin-top: 30px;
     margin-bottom: 30px;
     
-
 }
 
 .photo.col-md-4 {
-    background-color: #FFF176;
+    background-color: #feca07;
     text-align: center;
-
 }
 
 /*couleur du prénom */
 
 .name {
-    color: #FFF176;
+    color: #feca07;
     padding-left: 20px;
 }
 
 
 h1 {
     padding-top: 30px;
+    font-weight: bold;
+}
+h2 {
+    text-decoration-line: underline;
+    text-decoration-color: #feca07;
+    
+    padding-top: 5px;
+    padding-left: 20px;
     font-weight: bold;
 }
 
@@ -52,22 +58,20 @@ h1 {
     padding-left: 20px;
     padding-bottom: 30px;
     padding-top: 30px;
+    
 }
 
 
-h2, h3, h {
-    text-decoration-color: #FFF176;
+h3, h {
+    text-decoration-color: #feca07;
     text-decoration-line: underline;
-    font-weight: bold;
-    padding-left: 20px;
+    text-decoration-style: solid;
+    margin-left: 20px;
 }
 
-h3 {
-    padding-left: 20px;
-}
 
 h4.darkborder {
-    color: #FFF176;
+    color: #feca07;
     background-color: #455A64;
     padding-top: 5px;
     padding-bottom: 5px;
@@ -86,10 +90,14 @@ p {
     padding: 5px 0px 5px 0px;
 }
 
+.col-md-4 {
+    padding: 5px 0px 5px 0px;
+}
+
 
 .infos.col-md-4 {
-   background-color: #FFF176;
-   padding-left: 35px;
+    background-color: #feca07;
+    padding-left: 35px;
 }
 
 .fa-stack {
@@ -99,7 +107,11 @@ p {
     position: relative;
     vertical-align: central;
     width: 5em;
-    color: darkgrey;
+    color: feca07;
+}
+
+.fa, .far, .fad, .fas {
+    color: #feca07
 }
 
 address {
@@ -110,9 +122,6 @@ address {
     padding: 60px 0px 60px 0px;
 }
 
-typediplômes {
-    padding-right: 35px;
-}
 
 
 
