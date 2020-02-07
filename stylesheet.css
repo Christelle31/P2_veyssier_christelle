@@ -72,7 +72,7 @@ h3, h {
 
 h4.darkborder {
     color: #feca07;
-    background-color: #455A64;
+    background-color: #404040;
     padding-top: 5px;
     padding-bottom: 5px;
     text-align: center;
@@ -88,6 +88,7 @@ h4.darkborder {
 p {
     text-align: justify;
     padding: 5px 0px 5px 0px;
+    margin: 30px;
 }
 
 .col-md-4 {
@@ -107,20 +108,18 @@ p {
     position: relative;
     vertical-align: central;
     width: 5em;
-    color: feca07;
+    color: #feca07;
 }
 
 .fa, .far, .fad, .fas {
     color: #feca07
+   
 }
 
 address {
     padding: 30px 0px 30px 0px;
-}
-
-.lineheight {
-    padding: 60px 0px 60px 0px;
-}
+  
+    }
 
 
 
