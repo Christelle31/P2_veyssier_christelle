@@ -14,32 +14,35 @@
     }
 }
 
+/*Photo ronde*/
 .rounded-circle {
     height: 180px;
     width: 180px;
     margin-top: 30px;
     margin-bottom: 30px;
     border: 3px solid blue;
-    
-}
+ }
 
 .photo.col-md-4 {
     background-color: #29B6F6;
     text-align: center;
 }
 
-/*couleur du prénom */
+/*Prénom */
 
 .name {
     color: #29B6F6;
     padding-left: 20px;
 }
 
+/*nom prénom*/
 
 h1 {
     padding-top: 30px;
     font-weight: bold;
 }
+
+ /*job*/
 h2 {
     text-decoration-line: underline;
     text-decoration-color: #29B6F6;
@@ -48,12 +51,12 @@ h2 {
     font-weight: bold;
 }
 
+/*titre description section*/
 h3 {
     margin-left: 30px;
     border-bottom: 2px solid #29B6F6;
     padding-bottom: 10px;
-
-}
+ }
 
 .text1 {
     padding-left: 10px;
@@ -65,9 +68,9 @@ h3 {
     padding-left: 20px;
     padding-bottom: 30px;
     padding-top: 30px;
-    
-}
+    }
 
+/*bordures h4*/
 h4.darkborder {
     color: #29B6F6;
     background-color: #404040;
@@ -75,12 +78,6 @@ h4.darkborder {
     padding-bottom: 5px;
     text-align: center;
     max-width: 100%;
-}
-
-#text {
-    padding-left: 30px;
-    margin-top: 40px;
-    margin-bottom: 40px;
 }
 
 p {
@@ -93,26 +90,27 @@ p {
     padding: 5px 0px 5px 0px;
 }
 
-
 .infos.col-md-4 {
     background-color: #29B6F6;
     padding-left: 35px;
 }
 
+/*Icônes*/
 .fa-stack {
     display: inline-block;
-    height: 4em;
+    height: 10em;
     line-height: 4em;
     position: relative;
     vertical-align: central;
-    width: 5em;
-    color: #feca07;
+    width: 4em;
+    color: #29B6F6;
 }
 
 .fa, .far, .fad, .fas {
     color: #29B6F6;
 }
 
+/*section adresse*/
 address {
     padding: 30px 0px 30px 0px;
 }
