@@ -19,18 +19,19 @@
     width: 180px;
     margin-top: 30px;
     margin-bottom: 30px;
+    border: 3px solid blue;
     
 }
 
 .photo.col-md-4 {
-    background-color: #feca07;
+    background-color: #29B6F6;
     text-align: center;
 }
 
 /*couleur du prénom */
 
 .name {
-    color: #feca07;
+    color: #29B6F6;
     padding-left: 20px;
 }
 
@@ -41,11 +42,17 @@ h1 {
 }
 h2 {
     text-decoration-line: underline;
-    text-decoration-color: #feca07;
-    
+    text-decoration-color: #29B6F6;
     padding-top: 5px;
     padding-left: 20px;
     font-weight: bold;
+}
+
+h3 {
+    margin-left: 30px;
+    border-bottom: 2px solid #29B6F6;
+    padding-bottom: 10px;
+
 }
 
 .text1 {
@@ -61,17 +68,8 @@ h2 {
     
 }
 
-
-h3, h {
-    text-decoration-color: #feca07;
-    text-decoration-line: underline;
-    text-decoration-style: solid;
-    margin-left: 20px;
-}
-
-
 h4.darkborder {
-    color: #feca07;
+    color: #29B6F6;
     background-color: #404040;
     padding-top: 5px;
     padding-bottom: 5px;
@@ -97,7 +95,7 @@ p {
 
 
 .infos.col-md-4 {
-    background-color: #feca07;
+    background-color: #29B6F6;
     padding-left: 35px;
 }
 
@@ -112,15 +110,9 @@ p {
 }
 
 .fa, .far, .fad, .fas {
-    color: #feca07
-   
+    color: #29B6F6;
 }
 
 address {
     padding: 30px 0px 30px 0px;
-  
-    }
-
-
-
-
+}
