@@ -69,6 +69,10 @@ h3 {
     padding-top: 30px;
     }
 
+#text {
+    
+}
+
 
 /*bordures h4*/
 h4.darkborder {
@@ -82,8 +86,8 @@ h4.darkborder {
 
 p {
     text-align: justify;
-    padding: 5px 0px 5px 0px;
-    margin: 30px;
+    padding: 5px;
+    margin: 5px;
 }
 
 .col-md-4 {
@@ -129,5 +133,6 @@ p {
 }
 
 .lineheight {
-    line-height:40px ;
+    line-height: 40px;
+    font-size: 15px;
 }
