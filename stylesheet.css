@@ -44,8 +44,7 @@ h1 {
 
  /*job*/
 h2 {
-    text-decoration-line: underline;
-    text-decoration-color: #29B6F6;
+    
     padding-top: 5px;
     padding-left: 20px;
     font-weight: bold;
@@ -98,19 +97,30 @@ p {
 /*Icônes*/
 .fa-stack {
     display: inline-block;
-    height: 10em;
+    height: 5em;
     line-height: 4em;
     position: relative;
-    vertical-align: central;
-    width: 4em;
-    color: #29B6F6;
+    width: 2em;
+    color: black;
+    
 }
 
-.fa, .far, .fad, .fas {
+.far, .fad, .fas {
     color: #29B6F6;
 }
 
 /*section adresse*/
 address {
     padding: 30px 0px 30px 0px;
+}
+
+/*dimensionnement des boites*/
+.selector-for-some-widget {
+    box-sizing: content-box;
+}
+
+/*Trait sous titre h2*/
+.underline {
+    text-decoration-line: underline;
+    text-decoration-color: #29B6F6;
 }
