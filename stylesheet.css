@@ -69,6 +69,7 @@ h3 {
     padding-top: 30px;
     }
 
+
 /*bordures h4*/
 h4.darkborder {
     color: #29B6F6;
@@ -110,8 +111,10 @@ p {
 }
 
 /*section adresse*/
-address {
+.address {
     padding: 30px 0px 30px 0px;
+
+
 }
 
 /*dimensionnement des boites*/
@@ -123,4 +126,8 @@ address {
 .underline {
     text-decoration-line: underline;
     text-decoration-color: #29B6F6;
+}
+
+.lineheight {
+    line-height:40px ;
 }
