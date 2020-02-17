@@ -136,3 +136,21 @@ p {
     line-height: 40px;
     font-size: 15px;
 }
+
+#section {
+    max-width: 1400px;
+    height: auto;
+    clear: both
+}
+
+
+
+main {
+    float: left;
+    width: 50%;
+}
+
+aside {
+    float: left;
+    width: 50%;
+}
