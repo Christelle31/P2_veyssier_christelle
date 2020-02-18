@@ -100,13 +100,13 @@ p {
 }
 
 /*Icônes*/
-.fa-stack {
+.fa {
     display: inline-block;
-    height: 5em;
-    line-height: 4em;
+    height: 10em;
+    line-height: 10em;
     position: relative;
-    width: 2em;
-    color: black;
+    width: 1em;
+    color: midnightblue;
     
 }
 
