@@ -7,7 +7,7 @@
     }
 }
 
-@media (min-width: 781px) and (max-width:979px) {
+@media (min-width: 781px) and (max-width:1024px) {
 .bloc {
     display: block;
     clear: both;
