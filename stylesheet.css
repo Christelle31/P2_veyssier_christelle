@@ -26,6 +26,7 @@
 .photo.col-md-4 {
     background-color: #29B6F6;
     text-align: center;
+  
 }
 
 /*Prénom */
@@ -69,11 +70,6 @@ h3 {
     padding-top: 30px;
     }
 
-#text {
-    
-}
-
-
 /*bordures h4*/
 h4.darkborder {
     color: #29B6F6;
@@ -86,17 +82,16 @@ h4.darkborder {
 
 p {
     text-align: justify;
-    padding: 5px;
-    margin: 5px;
+    padding: 10px;
+    margin: 10px;
 }
 
-.col-md-4 {
-    padding: 5px 0px 5px 0px;
-}
+
 
 .infos.col-md-4 {
     background-color: #29B6F6;
-    padding-left: 35px;
+    padding-right: 0px;
+    padding-left: 0px;
 }
 
 /*Icônes*/
@@ -105,19 +100,13 @@ p {
     height: 10em;
     line-height: 10em;
     position: relative;
-    width: 1em;
     color: yellow;
+    border-radius: 50%;
     
 }
 
 .far, .fad, .fas {
     color: #29B6F6;
-}
-
-/*section adresse*/
-.address {
-    padding: 30px 0px 30px 0px;
-
 }
 
 /*dimensionnement des boites*/
@@ -134,7 +123,7 @@ p {
 .lineheight {
     line-height: 40px;
     font-size: 15px;
-}
+    }
 
 #section {
     max-width: 1400px;
@@ -145,9 +134,11 @@ p {
 main {
     float: left;
     width: 50%;
+    padding-left: 40px;
 }
 
 aside {
     float: left;
     width: 50%;
 }
+
