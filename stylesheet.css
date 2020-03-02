@@ -133,14 +133,17 @@ p {
     clear: both
 }
 
-main {
+.main {
     float: left;
     width: 50%;
     padding-left: 40px;
 }
 
-aside {
+.aside {
     float: left;
     width: 50%;
 }
 
+html {
+    overflow-x: hidden;
+}
