@@ -61,17 +61,32 @@ h3 {
    
 }
 
+#text {
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+   
+}
+
 .text1 {
     padding-left: 10px;
-    padding-bottom: 20px;
-    padding-top: 10px;
+   
+    
 }
 
 .text2 {
     padding-left: 20px;
-    padding-bottom: 30px;
-    padding-top: 30px;
+    padding-bottom: 40px;
+    padding-top: 40px;
     }
+
+p {
+    margin: 30px;
+    padding-top: 10px;
+    text-align: justify;
+}
+
+
 
 /*bordures h4*/
 h4.darkborder {
@@ -81,20 +96,11 @@ h4.darkborder {
     padding-bottom: 5px;
     text-align: center;
     max-width: 100%;
+
 }
-
-p {
-    margin-bottom: 0px;
-    margin: 10px;
-    text-align: justify;
-}
-
-
 
 .infos.col-md-4 {
     background-color: #29B6F6;
-    padding-right: 0px;
-    padding-left: 0px;
 }
 
 /*Icônes*/
@@ -103,7 +109,6 @@ p {
     border-radius: 100%;
     display: inline-block;
     text-decoration-color: darkblue;
-    
 }
 
 .far, .fad, .fas {
@@ -123,7 +128,8 @@ p {
 }
 
 .lineheight {
-    line-height: 40px;
+    line-height: 10px;
+    margin:10px;
     font-size: 15px;
     }
 
@@ -133,17 +139,3 @@ p {
     clear: both
 }
 
-.main {
-    float: left;
-    width: 50%;
-    padding-left: 40px;
-}
-
-.aside {
-    float: left;
-    width: 50%;
-}
-
-html {
-    overflow-x: hidden;
-}
