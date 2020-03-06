@@ -26,7 +26,10 @@
 .photo.col-md-4 {
     background-color: #29B6F6;
     text-align: center;
-  
+}
+
+.infos.col-md-4 {
+    background-color: #29B6F6;
 }
 
 /*Prénom */
@@ -38,7 +41,7 @@
 
 /*nom prénom*/
 
-h1 {
+.h1 {
     padding-top: 30px;
     font-weight: bold;
     padding-left: 30px;
@@ -58,7 +61,18 @@ h3 {
     font-weight: bold;
     padding-left: 30px;
     font-weight: 300;
-   
+   }
+
+/*bordures h4*/
+h4.darkborder {
+    color: #29B6F6;
+    background-color: #404040;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    max-width: 100%;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 #text {
@@ -71,7 +85,6 @@ h3 {
 .text1 {
     padding-left: 10px;
    
-    
 }
 
 .text2 {
@@ -84,18 +97,6 @@ p {
     margin: 30px;
     padding-top: 10px;
     text-align: justify;
-}
-
-/*bordures h4*/
-h4.darkborder {
-    color: #29B6F6;
-    background-color: #404040;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    text-align: center;
-    max-width: 100%;
-    margin-left: 15px;
-    margin-right: 15px;
 }
 
 /*Icônes*/
@@ -132,5 +133,9 @@ h4.darkborder {
     max-width: 1400px;
     height: auto;
     clear: both
+}
+
+.container {
+    display: flex;
 }
 
