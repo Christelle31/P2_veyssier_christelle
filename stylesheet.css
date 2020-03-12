@@ -125,11 +125,22 @@ p {
 
 .lineheight {
     line-height: 10px;
-    margin:20px;
-    font-size: 15px;
+    margin-left: 0px;
     }
 
 .boite {
     display: flex;
+}
+
+.titre1 {
+    font-weight: bold;
+}
+
+.titre2 {
+    margin-left: 0px;
+}
+
+.titre3 {
+    font-weight: bold;
 }
 
