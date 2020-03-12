@@ -71,8 +71,7 @@ h4.darkborder {
     padding-bottom: 5px;
     text-align: center;
     max-width: 100%;
-    margin-left: 15px;
-    margin-right: 15px;
+   
 }
 
 #text {
@@ -101,7 +100,7 @@ p {
 
 /*Icônes*/
 .fa {
-    border: 1px solid blue;
+    border: 10px solid blue;
     border-radius: 100%;
     display: inline-block;
     text-decoration-color: darkblue;
@@ -128,12 +127,6 @@ p {
     margin:20px;
     font-size: 15px;
     }
-
-#section {
-    max-width: 1400px;
-    height: auto;
-    clear: both
-}
 
 .boite {
     display: flex;
