@@ -14,6 +14,8 @@
     }
 }
 
+
+
 /*Photo ronde*/
 .rounded-circle {
     height: 180px;
@@ -101,10 +103,11 @@ p {
 
 /*Icônes*/
 .fa {
-    border: 10px solid blue;
+    border: 1px solid black;
     border-radius: 100%;
     display: inline-block;
-    text-decoration-color: darkblue;
+    text-decoration-color: black;
+
 }
 
 .far, .fad, .fas {
@@ -143,4 +146,22 @@ p {
 .titre3 {
     font-weight: bold;
 }
+
+.container-fluid {
+    /* Largeur Fluide et liquide, changer le 1000px par 100% */
+    max-width: 1000px;
+    /* Centre le conteneur dans la page */
+    margin: 20px auto;
+}
+
+main {
+    float: left;
+    width: 60%;
+}
+
+aside {
+    float: left;
+    width: 40%;
+}
+
 
