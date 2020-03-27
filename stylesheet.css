@@ -108,7 +108,8 @@ p {
     border-radius: 100%;
     display: inline-block;
     text-decoration-color: black;
-    padding: 5px 5px;
+    padding: 7px 7px;
+    margin: 2px 2px;
 }
 
 .far, .fad, .fas {
