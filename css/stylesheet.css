@@ -18,6 +18,12 @@
 
 }
 
+
+.title.col-4 {
+    background-color: #29B6F6;
+}
+
+
 .photo.col-md-4 {
     background-color: #29B6F6;
     text-align: center;
@@ -150,14 +156,8 @@ p {
     margin: 20px auto;
 }
 
-main {
-    float: left;
-    width: 60%;
-}
-
 aside {
-    float: left;
-    width: 40%;
+   
     background-color: #29B6F6;
 }
 
